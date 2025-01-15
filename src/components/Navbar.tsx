@@ -11,8 +11,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center space-x-3">
             <img 
-              src="https://raw.githubusercontent.com/Ashutosh026/sb1-s4znwqsq/21da614a9505fe32bd31ad88bb57a169a13eedd3/logo1.png" 
-              alt="Shivalay Interior Logo" 
+              src="https://raw.githubusercontent.com/Ashutosh026/shivalay-interiorsv1/refs/heads/main/src/assets/logo1.png" 
               className="h-12 w-auto"
             />
             <span className="text-xl font-semibold text-[##000000]">Shivalay Interiors</span>
